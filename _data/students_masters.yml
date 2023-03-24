@@ -1,0 +1,182 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+
+
+
+
+# - name: Sanjeev Anthia Ganesh
+#   photo: rock.jpg
+#   info: Master student since 2020
+#   project: Backscatter
+#   number_educ: 0
+#   education1: 
+
+# - name: <a href="https://www.linkedin.com/in/kuan-hau-chi/">Howard Chi</a>
+#   photo: rock.jpg
+#   info: Master student since 2020
+#   project: Full Duplex Radios
+#   number_educ: 0
+#   education1: "Highlights: Coauthor "
+
+- name: Abhishek Khare
+  photo: rock.jpg
+  info: Master student since 2021
+  project: WCSNG lab
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Harsh Deshpande
+  photo: rock.jpg
+  info: Master student since 2021
+  project: WCSNG lab
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+
+- name: Pratik Ratadiya
+  photo: rock.jpg
+  info: Master student since 2021
+  project: WCSNG lab
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Sreevatsank Kadaveru
+  photo: rock.jpg
+  info: Master student since 2021
+  project: Spectrum Sensing
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Shubham Jain
+  photo: rock.jpg
+  info: Master student since 2021
+  project: Radar
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Gaurav Singh
+  photo: rock.jpg
+  info: Master student since 2021
+  project: Software Defined Radios
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+
+- name: Hari Prasad
+  photo: rock.jpg
+  info: Master student since 2021
+  project: Radar
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Joshua Orozco
+  photo: rock.jpg
+  info: Master student since 2021
+  project: Radar, Security and Privacy
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Puja Shukla
+  photo: rock.jpg
+  info: Master student since 2021
+  project: Radar, Security and Privacy
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Radhika Mathuria
+  photo: rock.jpg
+  info: Master student since 2021
+  project: Software Defined Radios
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Sureel Shah
+  photo: rock.jpg
+  info: Master student since 2021
+  project: WCSNG lab
+  research1: wireless-sensing
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Kamalakannan
+  photo: rock.jpg
+  info: Master student since 2021
+  project: Smart surface project
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Ajay Kanchiraju
+  photo: rock.jpg
+  info: Master student since 2021
+  project: Wireless force sensor project
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Yizheng Yu
+  photo: rock.jpg
+  info: Master student 
+  project: Robotics
+  research1: wireless-sensing
+  research2:
+  number_educ: 0
+  education1: "Highlights:"
+
+- name: Rushabha Balaji
+  photo: rock.jpg
+  info: Master student since 2022
+  project: Digital Twin Project
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Suriyaa
+  photo: rock.jpg
+  info: Master student since 2022
+  project: MmWave testbed development
+  research1:
+  research2:
+  number_educ: 0
+  education1: 
+
+- name: Madhumitha Venkatesh 
+  photo: rock.jpg
+  info: Master student since 2022
+  project: Smart Surface Project
+  research1:
+  research2:
+  number_educ: 0
+  education1: 

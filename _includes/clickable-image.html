@@ -1,0 +1,29 @@
+<div id="image-cover-modal" class="image-cover-modal">
+  <img id="image-cover-image" class="image-cover-modal-content">
+  <div id="image-cover-caption"></div>
+</div>
+<script>
+// Get the DOM
+Var modal = document.getElementById('image-cover-modal');
+Var modalImg = document.getElementById("image-cover-image");
+Var captionText = document.getElementById("image-cover-caption");
+Var span = document.getElementsByClassName("image-cover-close")[0];
+
+// When the user clicks on <span> (x), close the modal
+Modal.onclick = function() {
+    this.classList.remove("model-shown");
+}
+
+Var i;
+For (i = 0; i < document.images.length; i++) {
+
+    // Get the image and insert it inside the modal - use its "alt" text as a caption
+    Var img = document.images[i];
+
+    Img.onclick = function(){
+        modal.classList.add("model-shown");
+        modalImg.src = this.src;
+        captionText.innerHTML = this.alt;
+    }
+}
+</script>
