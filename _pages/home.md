@@ -1,19 +1,56 @@
 ---
-title: "WCSNG - Home"
+title: "ECE257B"
 layout: homelay
 excerpt: "WCSNG at UC San Diego."
 sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_black_full_long.png" class="img-responsive" width="75%" style="clear: right; padding-right: 30px;" />
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_black_full_long.png" class="img-responsive" width="75%" style="clear: right; padding-right: 30px;" /> -->
 
-### About
+# ECE257B 
 
-Our group works at the intersection of Wireless Communication, Sensing and Networking (hence WCSNG). We develop theory and algorithms with special focus on
-implementation and protyping of solutions in our impact areas. Our current impact areas include: **wireless localization, sensing for autonomous driving, sensing for healthcare, spectrum sensing for next-generation networks, and wireless systems for VR/AR applications**.
+## Projects
 
-We have a multi-discplinary team with collaborative efforts across ECE, CSE and MAE departments. The group has a strong foundation in signal processing, system design and modeling. We use a wide repertoire of software to verify our theory and approach. We routinely work with wireless radios, both off-the-shelf and those designed in house. Our members are also experienced in data gathering and use popular machine learning techniques to expose cross-layer solutions to problems.
+One of the major goals of this class is to understand how wireless systems research is done. To this end, the project is the most important component of ECE 278B, since that's where you draw upon your knowledge and experience from the course readings and elsewhere to actually do research. The relevant details for the class project will be uploaded soon.
+Teams
+
+As far as possible, you should work in teams of teams of two or three. Working with others is a lot more fun, is often a lot more productive, and the resulting work a lot sounder than if you were working in isolation. The nature of the wireless field is one that fosters collaboration and often makes it essential for high impact work, and you should develop the ability to collaborate on projects. You need to work at least with one other person from the class, so please start looking out for team mates as soon as possible!
+## Proposal
+
+The proposal should be one or two pages. It is due on 3rd Friday. It is important that you read related background material before turning in the proposal.
+
+A crisp one-page write-up for the proposal should contain the following items. Project title (a detailed title is better than a vague one; you can always change it later if you don't like it!) and names of investigators with email addresses.
+
+A clear statement of the research problem: a one-sentence summary followed by a one-paragraph explanation (the paragraph shouldn't be more than 10-12 lines long). This should identify clearly the research question you're addressing.
+
+A clear statement of your research methods. i.e., how are you going to solve the problems you've raised and motivated in the previous paragraph?
+
+A statement of plan and schedule, to convince us (and yourself!) that you can complete the project by the end of the term.
+
+A list of resources you need to accomplish your work, with special emphasis on important pieces you don't yet have access to. Be as clear as you can in your requirements and we will work towards getting what you need as quickly as possible. If your request can't be accommodated for any reason, we will try to get back to you about it as soon as we find out.
+
+Any other questions you have or clarifications you need from us.
+## Background
+
+In a one-semester class, one can only cover a fraction of wireless topics, and there are sure to be projects where the background material won't be covered in too much detail. And even for topics that we do cover, there will almost certainly be other relevant related work that you should be familiar with. Part of doing something new is figuring out what's already been done or is known, so you should search the related literature and Web pages as extensively as you can. Keep an eye out for useful software or research methods or tools that you can leverage; this will save you tremendous amounts of time later in the term. You might find some of these useful links actually useful.
+## Expectations
+
+The best projects are usually publishable with a bit more additional work in top ACMUSENIXIEEE conferences in the area, such as SIGCOMM, MOBICOM, INFOCOM, and NSDI, or appear as articles in places like SIGCOMM's Computer Communications Review (CCR). The main goal, however, is to try something innovative; a failure to obtain good research results is quite acceptable, but a failure to try isn't!
+
+```Negative results are ok!```
+## Suggestions
+
+Where do you get a project? We will provide you with a list of suggestions by the end of first week. Please feel free to come up with your own ideas, or modify our suggestions in any way you want. Our suggestions are simply that; and they're usually incomplete. They are usually not complete specifications of projects. Please use the office hours to narrow down your projects.
+## Mid term progress report
+
+The progress report is due on mid-quarter. It should explain your approach, related/prior work, any preliminary results you might have obtained, and why you believe you are on the right track. It may also include material from the proposal after you had the chance to update it based on our feedback.
+## Final Project Presentation
+
+Students will create posters for their projects and present their progress on the last day of the class within the quarter. The plan is to invite industry folks to evaluate the projects and give feedback on appropriate next steps before your final project report submission.
+## Final project report
+
+The final report is due on TBA. The report is a conference-style paper describing the project and its key contributions/findings written on the course website hosted on our servers that is available for the public.
 
 <!-- 
 We are proud members of **Wireless Communication Sensing and Networking Group (WCSNG)**. We believe that progress is a result of unconventional thinking and dedicated work to improve the current state of technology. Our research areas span modern wireless communication systems, sensor networks, and machine learning.  Some of our impact areas are Medical Diagnosis, Telecommunications, V2X, VR/AR and Safety.
@@ -75,7 +112,7 @@ Email: dineshb [at] eng.ucsd.edu -->
   </a>
 </div>
 
-# Research
+<!-- # Research
 
 
 {% assign number_printed = 0 %}
@@ -116,7 +153,7 @@ Email: dineshb [at] eng.ucsd.edu -->
 </div>
 {% endif %}
 
- **We are  looking for passionate new PhD students, Postdocs, and Master's students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies.html) **!**
+ **We are  looking for passionate new PhD students, Postdocs, and Master's students to join the team** [(more i -->nfo)]({{ site.url }}{{ site.baseurl }}/vacancies.html) **!**
 
 
 <!--We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).

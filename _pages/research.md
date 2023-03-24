@@ -3,10 +3,10 @@ title: "WCSNG - Research"
 layout: gridlay
 excerpt: "WCSNG -- Research"
 sitemap: false
-permalink: /research/
+permalink: /projects/
 ---
 
-# Research
+# Projects
 
 
 {% assign number_printed = 0 %}
