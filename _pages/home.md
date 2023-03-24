@@ -1,7 +1,7 @@
 ---
 title: "ECE257B"
 layout: homelay
-excerpt: "WCSNG at UC San Diego."
+excerpt: "ECE 257B"
 sitemap: false
 permalink: /
 ---
@@ -50,7 +50,7 @@ The progress report is due on mid-quarter. It should explain your approach, rela
 Students will create posters for their projects and present their progress on the last day of the class within the quarter. The plan is to invite industry folks to evaluate the projects and give feedback on appropriate next steps before your final project report submission.
 ## Final project report
 
-The final report is due on TBA. The report is a conference-style paper describing the project and its key contributions/findings written on the course website hosted on our servers that is available for the public.
+The report is a conference-style paper describing the project and its key contributions/findings written on the course website hosted on our servers that is available for the public.
 
 <!-- 
 We are proud members of **Wireless Communication Sensing and Networking Group (WCSNG)**. We believe that progress is a result of unconventional thinking and dedicated work to improve the current state of technology. Our research areas span modern wireless communication systems, sensor networks, and machine learning.  Some of our impact areas are Medical Diagnosis, Telecommunications, V2X, VR/AR and Safety.
@@ -153,7 +153,7 @@ Email: dineshb [at] eng.ucsd.edu -->
 </div>
 {% endif %}
 
- **We are  looking for passionate new PhD students, Postdocs, and Master's students to join the team** [(more i -->nfo)]({{ site.url }}{{ site.baseurl }}/vacancies.html) **!**
+ **We are  looking for passionate new PhD students, Postdocs, and Master's students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies.html) **!** -->
 
 
 <!--We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).

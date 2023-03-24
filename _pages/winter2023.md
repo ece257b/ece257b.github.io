@@ -28,6 +28,7 @@ permalink: winter2023.html
 <div class="col-sm-13 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }} </pubtit>
+  <p><em>{{ publi.authors }}</em></p>
   <p><strong>
   <a href="{{ publi.website.url }}">{{ publi.website.display }}</a>
   <a href="{{ publi.paper.url }}"><span style="color:#D35400;">{{ publi.paper.display }}</span></a>
@@ -36,7 +37,6 @@ permalink: winter2023.html
   <meta name="publi.keywords.name" content="{{ publi.keywords.content }}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" hspace="20" />
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
