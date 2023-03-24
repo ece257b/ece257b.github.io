@@ -27,14 +27,14 @@ permalink: winter2023.html
 
 <div class="col-sm-13 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }} <a href="{{ publi.link.url }}"><span style="color:tomato;">{{ publi.link.display }}</span></a></pubtit>
+  <pubtit>{{ publi.title }} </pubtit>
   <p><strong>
   <a href="{{ publi.website.url }}">{{ publi.website.display }}</a>
   <a href="{{ publi.paper.url }}"><span style="color:#D35400;">{{ publi.paper.display }}</span></a>
   <a href="{{ site.url }}{{ site.baseurl }}/{{ publi.presentation.url }}"><span style="color:#7D3C98;">{{ publi.presentation.display }}</span></a> 
   </strong></p>
   <meta name="publi.keywords.name" content="{{ publi.keywords.content }}">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" hspace="20" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" hspace="20" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>

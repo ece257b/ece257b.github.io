@@ -1,0 +1,25 @@
+
+
+- name: <a href='https://ishjain.github.io/'>Ish Kumar Jain</a>
+  photo: ish.jpg
+  info: PhD Student, started 2018
+  email: ikjain [at] eng.ucsd.edu
+  number_educ: 1
+  research1: communication
+  research2: wireless-sensing
+  education1: Ish is working on millimeter wave communications to provide high reliability and low latency for applications such as virtual reality and vehicular communications.
+  education2: "Highlights: NSDI'20, mmNets'20, Sigcomm'21, Hotcarbon'22, IEEE WPMC'22, Infocom'23, IEEE S&P'23"
+  education3:
+  education4:
+
+- name: <a href="/aarun"> Aditya Arun </a>
+  photo: aditya.jpeg
+  info: PhD Student, started 2019
+  email: aarun [at] eng.ucsd.edu
+  number_educ: 1
+  research1: wireless-sensing
+  research2:
+  education1:  Aditya's research currently focuses on realizing accurate indoor localization by introducing a new WiFi-based sensor modality using graph-based optimization techniques.
+  education2: "Highlights: NSDI'20, Mobicom'20, Sensys'20 workshop, IMWUT '21, IEEE RAL'22, ICRA'22, Hotmobile'23"
+  education3:
+  education4:

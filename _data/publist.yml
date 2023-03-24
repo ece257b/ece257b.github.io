@@ -1,20 +1,17 @@
 - title: "Title goes here"
-  image: mirage.png
+  image: placeholder.jpg
   description: "Blah Blah Wi-Fi-based indoor localization has now matured for over a decade. Most of the current localization algorithms rely on the Wi-Fi access points (APs) in the enterprise network to localize the Wi-Fi user accurately. Thus, the Wi-Fi user's location information could be easily snooped by an attacker listening through a compromised Wi-Fi AP. With indoor localization and navigation being the next step towards automation, it is important to give users the capability to defend against such attacks. In this paper, we present MIRAGE, a system that can utilize the downlink physical layer information to create a defense against an attacker snooping on a Wi-Fi user's location information. MIRAGE achieves this by utilizing the  beamforming capability of the transmitter that is already part of the Wi-Fi standard protocols. With this initial idea, we have demonstrated that the user can obfuscate his/her location from the Wi-Fi AP always with no compromise to the throughput of the existing Wi-Fi communication system through the real-world prototype, and reduce the user location accuracy of the attacker from 2.3m to more than 10m through simulation."
   short-desc: "First RF-privacy system to maintain user location privacy."
   authors: Author A, Author B
-  link:
-    url: https://hotmobile.org/2023/index.php?id=program
-    display:  "[HotMobile'23]"
   highlight: 1
   tag1: winter2023
   tag2: 
   news1: 
   website: 
-    url: https://wcsng.ucsd.edu/mirage/
+    url: 
     display: "[Webpage]"
   paper: 
-    url: https://arxiv.org/pdf/2211.10014.pdf
+    url: 
     display: "[paper]"
 
 
